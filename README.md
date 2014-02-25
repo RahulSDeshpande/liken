@@ -11,6 +11,15 @@ Go to the playstore: https://play.google.com/store/apps/details?id=com.liken&hl=
 
 (NOTE: the AWS service is terminated hence the web server of this app is no longer operating.)
 
+
+
+
+The UI/UX design is done by Miyavi Siong from Singapore. He is available to take up UX design & marketing/branding project. If you like his design, do not hesitate to contact him!! 
+
+Miyavi's Email:
+
+miyavi@brandmolecule.com
+
 ![screenshots](https://raw2.github.com/luelue/liken/master/Screenshot_2013-10-08-22-26-54.png)
 
 ![screenshots](https://raw2.github.com/luelue/liken/master/Screenshot_2013-10-08-22-26-43.png)
@@ -19,11 +28,10 @@ Go to the playstore: https://play.google.com/store/apps/details?id=com.liken&hl=
 
 ![screenshots](https://raw2.github.com/luelue/liken/master/Screenshot_2013-10-08-22-27-18.png)
 
-The UI/UX design is done by Miyavi Siong from Singapore. He is available to take up UX design & marketing/branding project. If you like his design, do not hesitate to contact him!! 
 
-Miyavi's Email:
 
-miyavi@brandmolecule.com
+
+
 
 The additional libraries & jar files needed for this project which are not included in this repo are as followed:
 
