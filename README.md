@@ -14,8 +14,8 @@ Go to the playstore: https://play.google.com/store/apps/details?id=com.liken&hl=
 
 
 
-The UI/UX design is done by Miyavi Siong from Singapore. He is available to take up UX design & marketing/branding project. If you like his design, do not hesitate to contact him!! 
-
+The UI/UX design is done by Miyavi Lim from Singapore. He is available to take up UX design & marketing/branding project. If you like his design, do not hesitate to contact him!! 
+=============================================================================================================================
 Miyavi's Email:
 
 miyavi@brandmolecule.com
@@ -34,7 +34,7 @@ miyavi@brandmolecule.com
 
 
 The additional libraries & jar files needed for this project which are not included in this repo are as followed:
-
+=================================================================================================================
 Android-SlideExpandableListView-master
 
 Android-Universal-Image-Loader-master
